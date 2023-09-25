@@ -76,9 +76,12 @@
 .about {
     margin-left: 16px;
 }
+.div-profile-margin{
+    margin-top: 24px;
+
+}
 
 .sn {
-    margin-top: 24px;
     margin-left: 16px;
     display: flex;
 }
