@@ -173,11 +173,11 @@
     font-weight: 600;
 }
 
-.Footer-list-margin {
+.footer-list-margin {
     margin: 15px 0px;
 }
 
-.Footer-list-nav-a {
+.footer-list-nav-a {
     font-size: 14px;
     color: #535353;
     font-family: 'Noto Sans Sogdian', sans-serif;
@@ -203,12 +203,13 @@
     margin-left: 254px;
 }
 
-.footer-div-Third-list-margin {
+.footer-div-third-list-margin {
     margin-top: 108px;
     margin-left: 147px;
     margin-right: 75px;
 }
-.footer-uk-margin{
+
+.footer-uk-margin {
     margin-top: 55px;
 }
 
