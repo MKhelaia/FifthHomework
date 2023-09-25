@@ -1,3 +1,6 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Noto+Sans+Sogdian&family=Roboto:wght@100&display=swap');
+
 /* header */
 .first-text {
     margin-top: 80px;
@@ -6,6 +9,7 @@
     display: flex;
     justify-content: center;
     font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 400;
 
 }
 
@@ -15,6 +19,9 @@
     color: #282828;
     display: flex;
     justify-content: center;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 600;
+
 }
 
 .first-page-text {
@@ -23,6 +30,8 @@
     color: #5F6980;
     display: flex;
     justify-content: center;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 400;
 }
 
 .first-page-text-2 {
@@ -129,6 +138,13 @@
     height: 64px;
 }
 
+.text-p {
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #535353;
+}
+
 .footer-div-for-p {
     margin-top: 32px;
     Width: 306.05px;
@@ -153,6 +169,8 @@
 .footer-nav-page-name {
     font-size: 20px;
     color: #1E1E1E;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 600;
 }
 
 .Footer-list-margin {
@@ -162,9 +180,11 @@
 .Footer-list-nav-a {
     font-size: 14px;
     color: #535353;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 400;
 }
 
-.footer-uk-margin {
+.footer-ul-margin {
     margin-top: 71px;
 }
 
@@ -188,6 +208,9 @@
     margin-left: 147px;
     margin-right: 75px;
 }
+.footer-uk-margin{
+    margin-top: 55px;
+}
 
 .button {
     margin-top: 58.45px;
@@ -202,4 +225,6 @@
     color: #FFFFFF;
     font-size: 14px;
     font-weight: bold;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 400;
 }
