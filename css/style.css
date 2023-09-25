@@ -1,0 +1,205 @@
+/* header */
+.first-text {
+    margin-top: 80px;
+    font-size: 16px;
+    color: #282828;
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+
+}
+
+.header-name {
+    margin-top: 4px;
+    font-size: 54px;
+    color: #282828;
+    display: flex;
+    justify-content: center;
+}
+
+.first-page-text {
+    margin-top: 16px;
+    font-size: 20px;
+    color: #5F6980;
+    display: flex;
+    justify-content: center;
+}
+
+.first-page-text-2 {
+    font-size: 20px;
+    color: #5F6980;
+    display: flex;
+    justify-content: center;
+}
+
+/* main */
+.foto-1 {
+    width: 310px;
+    height: 230px;
+}
+
+.name {
+    margin-top: 16px;
+    font-size: 18px;
+    color: #282828;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 600;
+}
+
+.jobposition {
+    display: block;
+    margin-top: 4px;
+    font-size: 14px;
+    color: #3E3E59;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 400;
+}
+
+.abouwork {
+    display: flex;
+    margin-top: 8px;
+    font-size: 14px;
+    color: #5F6980;
+    font-family: 'Noto Sans Sogdian', sans-serif;
+    font-weight: 400;
+}
+
+.about {
+    margin-left: 16px;
+}
+
+.sn {
+    margin-top: 24px;
+    margin-left: 16px;
+    display: flex;
+}
+
+.insta-logo {
+    margin: 0px 16px;
+}
+
+.box {
+    width: 310px;
+    height: 430px;
+    border: 1px solid #EAECF0;
+}
+
+.mainbox {
+    margin-top: 48px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.box-1 {
+    margin: 0px 32px;
+    width: 310px;
+    height: 430px;
+    border: 1px solid #EAECF0;
+}
+
+.box-2 {
+    margin-right: 32px;
+    width: 310px;
+    height: 430px;
+    border: 1px solid #EAECF0;
+}
+
+.divcenter {
+    display: flex;
+    justify-content: center;
+}
+
+.secont-floor {
+    margin-top: 48px;
+}
+
+/* footer */
+.div-footer {
+    margin-top: 48px;
+    width: 100%;
+    height: 440px;
+    background-color: rgba(83, 83, 83, 0.33);
+    display: flex;
+    justify-content: space-between;
+}
+
+.infinity {
+    width: 100px;
+    height: 64px;
+}
+
+.footer-div-for-p {
+    margin-top: 32px;
+    Width: 306.05px;
+    Height: 73px;
+}
+
+.footer-black-logo {
+    width: 24px;
+    height: 24px;
+}
+
+.footer-black-logo-margin {
+    margin: 0px 16px;
+    width: 24px;
+    height: 24px;
+}
+
+.footer-logos {
+    margin-top: 28px;
+}
+
+.footer-nav-page-name {
+    font-size: 20px;
+    color: #1E1E1E;
+}
+
+.Footer-list-margin {
+    margin: 15px 0px;
+}
+
+.Footer-list-nav-a {
+    font-size: 14px;
+    color: #535353;
+}
+
+.footer-uk-margin {
+    margin-top: 71px;
+}
+
+.div-for-footer {
+    margin-top: 108px;
+    margin-left: 45px;
+}
+
+.footer-div-first-list-margin {
+    margin-top: 108px;
+    margin-left: 144.95px;
+}
+
+.footer-div-second-list-margin {
+    margin-top: 108px;
+    margin-left: 254px;
+}
+
+.footer-div-Third-list-margin {
+    margin-top: 108px;
+    margin-left: 147px;
+    margin-right: 75px;
+}
+
+.button {
+    margin-top: 58.45px;
+    background: #054A68;
+    width: 80px;
+    height: 45px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.a-button {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+}
